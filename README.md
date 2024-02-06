@@ -5,11 +5,11 @@
 
 ## Architecture
 
-## 비동기 쿠폰 발급 요청 처리 구조
+### 비동기 쿠폰 발급 요청 처리 구조
 
 image
 
-## 캐시 데이터 기반 Validation
+### 캐시 데이터 기반 Validation
 
 image
 
